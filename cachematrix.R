@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Test version to check commit changes in GitHub
+## This is not the final version of this file
 
 ## Write a short comment describing this function
 
